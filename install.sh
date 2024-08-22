@@ -741,8 +741,7 @@ base_name="/root/${name}_\${timestamp}."
 backup_name="/root/${name}_\${timestamp}${compression_ext}"
 caption="$caption
 
-📦  from \$ip
-⚡️  by @ErfJabs"
+📦  from \$ip"
 
 rm -f "\$backup_name"*
 
